@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T22:53:10.607124+08:00",
-  "total_titles_processed": 1758,
+  "generated_at": "2026-01-06T23:46:33.302016+08:00",
+  "total_titles_processed": 1844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 89,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -41,8 +41,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时02分 ~ 22时53分]"
+          "appearance_count": 12,
+          "time_info": "[13时02分 ~ 23时46分]"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            21,
+            16,
+            17,
+            13,
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时57分 ~ 23时46分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -59,8 +76,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时57分 ~ 22时53分]"
+          "appearance_count": 22,
+          "time_info": "[00时57分 ~ 23时46分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -97,22 +114,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时57分 ~ 07时37分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            21,
-            16,
-            17,
-            13,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时57分 ~ 22时53分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -193,6 +194,19 @@
           "time_info": "[11时57分 ~ 17时52分]"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时53分 ~ 23时46分]"
+        },
+        {
           "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
           "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
           "source": "凤凰网",
@@ -216,6 +230,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国总统特朗普：我老婆讨厌我跳舞。她跟我说，你能想象罗斯福（FDR）跳舞吗？",
+          "url": "https://flash.jin10.com/detail/20260106233914098800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "【丹麦首相警告：美国吞并格陵兰岛将意味着北约终结】在结束对委内瑞拉的突袭行动后，美国总统特朗普当地时间1月4日曾表示，美国需要格陵兰岛。丹麦首相弗雷泽里克森5日对特朗普的相关言论作出回应，称如果美国吞并格陵兰岛，将等同于北约这一军事联盟的终结。“如果美国选择对另一个北约国家发动军事攻击，那么一切都将停止。”弗雷泽里克森在接受丹麦TV2电视台采访时表示，“这包括北约本身，以及自第二次世界大战结束以来维持的安全（体系）”。（环球网）",
           "url": "https://wallstreetcn.com/livenews/3031345",
           "source": "华尔街见闻-快讯",
@@ -225,6 +250,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "美国总统特朗普：将加快武器生产速度。 F-35战斗机和阿帕奇直升机的生产时间太长。",
+          "url": "https://wallstreetcn.com/livenews/3031774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉的电力供应被切断了。",
+          "url": "https://wallstreetcn.com/livenews/3031773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "美国白宫办公厅副主任斯蒂芬·米勒：特朗普已要求卢比奥领导委内瑞拉进程，委内瑞拉任何商务往来都需要美国的批准，我们正得到委内瑞拉的全力配合。",
@@ -247,19 +294,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
-        },
-        {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时53分 ~ 22时53分]"
         },
         {
           "title": "特朗普“跨国绑架”，露出了帝国獠牙",
@@ -293,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "美国总统特朗普：将在2026年中期选举里取得“史诗级”胜利。",
+          "url": "https://wallstreetcn.com/livenews/3031771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
@@ -355,6 +400,18 @@
           "time_info": "[00时57分 ~ 02时59分]"
         },
         {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时51分 ~ 23时46分]"
+        },
+        {
           "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
           "url": "https://wallstreetcn.com/livenews/3031058",
           "source": "华尔街见闻-快讯",
@@ -374,18 +431,6 @@
           "ranks": [
             15,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时51分 ~ 22时53分]"
-        },
-        {
-          "title": "曝特朗普对委动手前曾暗示油企高管",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            17
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -494,6 +539,17 @@
           "time_info": "04时48分"
         },
         {
+          "title": "美国总统特朗普：希望最高法院做出有利于我国的裁决。",
+          "url": "https://flash.jin10.com/detail/20260106233045494800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
           "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
           "source": "凤凰网",
@@ -549,6 +605,28 @@
           "time_info": "07时37分"
         },
         {
+          "title": "美国总统特朗普：F-35和阿帕奇直升机制造时间太长。",
+          "url": "https://flash.jin10.com/detail/20260106232946014800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "特朗普称加州现已成为欺诈调查的目标",
+          "url": "https://wallstreetcn.com/livenews/3031765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
           "url": "https://flash.jin10.com/detail/20260106070419372800",
           "source": "金十数据",
@@ -593,6 +671,17 @@
           "time_info": "21时51分"
         },
         {
+          "title": "美国总统特朗普：武器和飞机的生产速度将大幅提升。",
+          "url": "https://flash.jin10.com/detail/20260106232908036800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
           "url": "https://www.cls.cn/detail/2248515",
           "source": "财联社热门",
@@ -602,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "美国总统特朗普：将要求国防承包商加快建设速度。",
+          "url": "https://flash.jin10.com/detail/20260106232836411800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "据NBC：美国总统特朗普表示，委内瑞拉在未来30天内不会举行新选举。",
@@ -615,6 +715,17 @@
           "time_info": "07时37分"
         },
         {
+          "title": "美国总统特朗普：制造武器耗时太长。",
+          "url": "https://flash.jin10.com/detail/20260106232832385800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "墨西哥总统回应特朗普：合作可以，干预不行",
           "url": "https://wallstreetcn.com/livenews/3030994",
           "source": "华尔街见闻-快讯",
@@ -624,6 +735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国总统特朗普：将更快地开始生产武器。",
+          "url": "https://flash.jin10.com/detail/20260106232823127800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "据NBC：美国总统特朗普表示，美国并未与委内瑞拉开战。",
@@ -692,6 +814,17 @@
           "time_info": "18时53分"
         },
         {
+          "title": "美国总统特朗普：（谈委内瑞拉突袭行动）我们投入了大量地面部队力量。多名古巴士兵在委内瑞拉突袭中被杀。委内瑞拉的电力被切断。",
+          "url": "https://flash.jin10.com/detail/20260106232613775800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "特朗普派往格陵兰岛的特使：不认为特朗普已准备好接管格陵兰。",
           "url": "https://wallstreetcn.com/livenews/3031688",
           "source": "华尔街见闻-快讯",
@@ -736,6 +869,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "美国总统特朗普：（对众议院共和党人说）我真希望你们能给我解释一下，公众到底是怎么想的。因为我们的政策是正确的。",
+          "url": "https://flash.jin10.com/detail/20260106231855670800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "特朗普一天之内威胁多国",
           "url": "https://www.toutiao.com/trending/7591841454150913599/",
           "source": "今日头条",
@@ -745,6 +889,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国总统特朗普：我完全支持美国众议院议长约翰逊。",
+          "url": "https://flash.jin10.com/detail/20260106231828410800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "特朗普说马斯克八成是超级天才",
@@ -786,7 +941,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -797,7 +952,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -824,6 +979,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国总统特朗普：我们的总统任期很成功。",
+          "url": "https://flash.jin10.com/detail/20260106231305356800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "特朗普政府已经与多家石油公司讨论委内瑞拉形势。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3031110",
           "source": "华尔街见闻-快讯",
@@ -846,6 +1012,17 @@
           "time_info": "21时51分"
         },
         {
+          "title": "美国总统特朗普：两天前我们过得非常顺利。",
+          "url": "https://flash.jin10.com/detail/20260106231247683800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "墨总统回应特朗普：合作可以干预不行",
           "url": "https://www.toutiao.com/trending/7591151766478290986/",
           "source": "今日头条",
@@ -860,7 +1037,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -870,8 +1047,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时37分 ~ 22时53分]"
+          "appearance_count": 14,
+          "time_info": "[07时37分 ~ 23时46分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -942,7 +1119,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -955,8 +1132,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时51分 ~ 22时53分]"
+          "appearance_count": 4,
+          "time_info": "[21时51分 ~ 23时46分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -969,6 +1146,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时46分]"
+        },
+        {
+          "title": "半导体ETF涨1.57%，在盘初领跑美股行业ETF，科技行业ETF、全球科技股指数ETF至多涨0.46%，银行业ETF跌0.19%，可选消费ETF跌0.59%。",
+          "url": "https://wallstreetcn.com/livenews/3031741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时46分]"
+        },
+        {
+          "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3762631",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "金十图示：2026年01月05日（周一）热门中概股行情一览（美股收盘）",
@@ -988,18 +1188,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
-          "title": "半导体ETF涨1.57%，在盘初领跑美股行业ETF，科技行业ETF、全球科技股指数ETF至多涨0.46%，银行业ETF跌0.19%，可选消费ETF跌0.59%。",
-          "url": "https://wallstreetcn.com/livenews/3031741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1032,7 +1221,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1057,6 +1246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "美股网约车股上涨，此前英伟达(NVDA.O)宣布自动驾驶技术平台。Uber(UBER.N)涨5.6%，Lyft(LYFT.O)涨3%，特斯拉(TSLA.O)跌3.2%。",
+          "url": "https://flash.jin10.com/detail/20260106231547408800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股盘中）",
@@ -1087,7 +1287,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         }
@@ -1107,11 +1307,12 @@
             9,
             10,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时03分 ~ 22时53分]"
+          "appearance_count": 10,
+          "time_info": "[15时03分 ~ 23时46分]"
         },
         {
           "title": "外媒：美国似乎正考虑对伊朗实施干预，以色列亦蠢蠢欲动",
@@ -1263,11 +1464,12 @@
           "url": "https://www.toutiao.com/trending/7592189155237789750/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时52分 ~ 22时53分]"
+          "appearance_count": 3,
+          "time_info": "[22时52分 ~ 23时46分]"
         },
         {
           "title": "多重利好共振 金价无惧高位窄幅震荡",
@@ -1276,7 +1478,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1331,8 +1533,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时57分 ~ 22时53分]"
+          "appearance_count": 13,
+          "time_info": "[11时57分 ~ 23时46分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -1438,7 +1640,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         }
@@ -1479,7 +1681,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         }
