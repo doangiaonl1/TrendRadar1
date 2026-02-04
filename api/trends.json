@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T22:47:24.304003+08:00",
-  "total_titles_processed": 2091,
+  "generated_at": "2026-02-04T23:38:30.074111+08:00",
+  "total_titles_processed": 2173,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 77,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -79,6 +79,39 @@
           "time_info": "[13时44分 ~ 19时29分]"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://www.toutiao.com/trending/7603003215299149878/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时01分 ~ 23时38分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时01分 ~ 23时38分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.douyin.com/hot/2389904",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时01分 ~ 23时38分]"
+        },
+        {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
           "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
           "source": "凤凰网",
@@ -91,36 +124,14 @@
         },
         {
           "title": "习近平同美国总统特朗普通电话",
-          "url": "https://www.toutiao.com/trending/7603003215299149878/",
-          "source": "今日头条",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[22时01分 ~ 22时47分]"
-        },
-        {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时01分 ~ 22时47分]"
-        },
-        {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.douyin.com/hot/2389904",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时01分 ~ 22时47分]"
+          "time_info": "[22时47分 ~ 23时38分]"
         },
         {
           "title": "特朗普签署拨款法案，结束政府部分“停摆”",
@@ -132,17 +143,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时24分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
         },
         {
           "title": "特朗普称有问题的是比尔盖茨那些人",
@@ -289,6 +289,17 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时47分 ~ 23时38分]"
+        },
+        {
           "title": "特朗普与爱泼斯坦聚会视频曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -347,6 +358,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 04时31分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时37分 ~ 23时38分]"
         },
         {
           "title": "特朗普称正与伊朗进行谈判",
@@ -435,17 +457,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://wallstreetcn.com/articles/3764980",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
         },
         {
           "title": "哥伦比亚总统佩特罗在与美国总统特朗普会面后表示，他喜欢“坦率的美国人”。",
@@ -707,7 +718,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -718,7 +729,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -778,6 +789,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "印度官员试图平息各界对特朗普贸易协议的担忧",
+          "url": "https://wallstreetcn.com/livenews/3049972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "特朗普回应爱泼斯坦案：我是清白的",
           "url": "https://www.toutiao.com/trending/7602412254818140203/",
           "source": "今日头条",
@@ -798,6 +820,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "海湾国家官员表示，目前的计划是由美国总统特使威特科夫和特朗普女婿库什纳代表美国。",
+          "url": "https://flash.jin10.com/detail/20260204232402509800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "美伊会谈前生两起摩擦 特朗普：本周的谈判仍在继续",
@@ -847,7 +880,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
@@ -862,8 +895,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时34分 ~ 22时47分]"
+          "appearance_count": 10,
+          "time_info": "[16时34分 ~ 23时38分]"
+        },
+        {
+          "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
+          "url": "https://news.ifeng.com/c/8qTVQYD7em2",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时29分 ~ 23时38分]"
         },
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
@@ -894,18 +939,6 @@
           "time_info": "[13时44分 ~ 22时02分]"
         },
         {
-          "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
-          "url": "https://news.ifeng.com/c/8qTVQYD7em2",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时29分 ~ 22时47分]"
-        },
-        {
           "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
           "url": "https://wallstreetcn.com/articles/3764876",
           "source": "华尔街见闻",
@@ -915,8 +948,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时38分 ~ 22时47分]"
+          "appearance_count": 9,
+          "time_info": "[17时38分 ~ 23时38分]"
         },
         {
           "title": "美军击落伊朗无人机",
@@ -1001,6 +1034,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 12时07分]"
+        },
+        {
+          "title": "美军：击落一架“挑衅性”接近美军航母的伊朗无人机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32527648",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时47分 ~ 23时38分]"
         },
         {
           "title": "伊朗古列斯坦王宫宣布暂停对外开放",
@@ -1271,17 +1315,6 @@
           "time_info": "06时25分"
         },
         {
-          "title": "美军：击落一架“挑衅性”接近美军航母的伊朗无人机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32527648",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
           "title": "消息人士：伊朗希望改变与美国进行核谈判的地点和形式",
           "url": "https://flash.jin10.com/detail/20260204010708648800",
           "source": "金十数据",
@@ -1403,6 +1436,17 @@
           "time_info": "02时49分"
         },
         {
+          "title": "海湾国家官员表示，正在讨论的谈判机制旨在让多个国家协助斡旋伊朗与美国之间的谈判。",
+          "url": "https://flash.jin10.com/detail/20260204232324506800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "美方证实击落一架伊朗无人机",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%E8%AF%81%E5%AE%9E%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
           "source": "百度热搜",
@@ -1450,7 +1494,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -1461,8 +1505,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时23分 ~ 22时47分]"
+          "appearance_count": 18,
+          "time_info": "[07时23分 ~ 23时38分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1473,8 +1517,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时26分 ~ 22时47分]"
+          "appearance_count": 16,
+          "time_info": "[09时26分 ~ 23时38分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -1509,8 +1553,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时44分 ~ 22时47分]"
+          "appearance_count": 14,
+          "time_info": "[13时44分 ~ 23时38分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -1522,8 +1566,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时44分 ~ 22时47分]"
+          "appearance_count": 14,
+          "time_info": "[13时44分 ~ 23时38分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1580,20 +1624,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
         {
-          "title": "现货黄金短线从5037美元附近跳水，逼近4967美元，日内整体涨幅迅速收窄至0.5%。 现货白银回落至89美元一线，目前涨4.6%，美股盘前还曾涨至92.2043美元。",
-          "url": "https://wallstreetcn.com/livenews/3049959",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
           "ranks": [
-            4
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时01分 ~ 23时38分]"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -1645,16 +1690,16 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
-          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2280791",
-          "source": "财联社热门",
+          "title": "现货黄金短线从5037美元附近跳水，逼近4967美元，日内整体涨幅迅速收窄至0.5%。 现货白银回落至89美元一线，目前涨4.6%，美股盘前还曾涨至92.2043美元。",
+          "url": "https://wallstreetcn.com/livenews/3049959",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            7
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时01分 ~ 22时47分]"
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时38分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
@@ -1687,7 +1732,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -1698,7 +1743,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -1764,7 +1809,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -1852,9 +1897,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
+        },
+        {
+          "title": "美股走低纳指一度下跌1% 软件股继续承压",
+          "url": "https://flash.jin10.com/detail/20260204232138533800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         }
       ]
     },
@@ -2118,7 +2174,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -2238,7 +2294,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
