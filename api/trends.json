@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T09:45:05.463206+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-02-12T12:20:57.397547+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -26,11 +26,12 @@
             10,
             9,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时00分 ~ 09时45分]"
+          "appearance_count": 10,
+          "time_info": "[02时00分 ~ 12时20分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -398,6 +399,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
+          "url": "https://www.cls.cn/detail/2287759",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "据AXIOS网站：特朗普与内塔尼亚胡的会议在近三个小时后结束。",
           "url": "https://flash.jin10.com/detail/20260212025205633800",
           "source": "金十数据",
@@ -544,7 +556,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -582,6 +594,19 @@
           "time_info": "[01时00分 ~ 07时27分]"
         },
         {
+          "title": "美股收盘：非农提振昙花一现 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2287796",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 12时20分]"
+        },
+        {
           "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260212013127382800",
           "source": "金十数据",
@@ -615,18 +640,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "美股收盘：非农提振昙花一现 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2287796",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 09时45分]"
-        },
-        {
           "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
           "url": "https://wallstreetcn.com/livenews/3053983",
           "source": "华尔街见闻-快讯",
@@ -651,6 +664,17 @@
           "time_info": "[05时29分 ~ 06时25分]"
         },
         {
+          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
+          "url": "https://www.cls.cn/detail/2287918",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "生物技术公司Viking Therapeutics股价在美股盘后交易中上涨9.1%。 该公司宣布，计划在今年第三季度将其口服肥胖症治疗药物VK2735推向3期临床试验。 尽管第四季度亏损超预期（主要受研发支出激增驱动），但其口服药物的进度优势抵消了财务压力。",
           "url": "https://wallstreetcn.com/livenews/3053995",
           "source": "华尔街见闻-快讯",
@@ -665,7 +689,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗总统致歉",
@@ -777,6 +801,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "伊朗总统：愿接受任何形式的核查",
+          "url": "https://www.douyin.com/hot/2397305",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "伊朗举行庆祝伊斯兰革命胜利47周年活动",
           "url": "https://wallstreetcn.com/livenews/3053902",
           "source": "华尔街见闻-快讯",
@@ -821,22 +856,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时00分 ~ 09时45分]"
+          "appearance_count": 12,
+          "time_info": "[01时00分 ~ 12时20分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时00分 ~ 09时45分]"
+          "appearance_count": 12,
+          "time_info": "[01时00分 ~ 12时20分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -857,11 +894,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时25分 ~ 09时45分]"
+          "appearance_count": 5,
+          "time_info": "[06时25分 ~ 12时20分]"
         }
       ]
     },
@@ -889,8 +927,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 09时45分]"
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 12时20分]"
         },
         {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
