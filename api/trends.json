@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T12:13:58.901564+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-02-24T14:09:21.565849+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 54,
       "titles": [
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -58,6 +58,17 @@
           "time_info": "[00时49分 ~ 09时29分]"
         },
         {
+          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
+          "url": "https://www.cls.cn/detail/2293072",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 14时09分]"
+        },
+        {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
           "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
           "source": "凤凰网",
@@ -71,15 +82,17 @@
           "time_info": "[07时30分 ~ 12时13分]"
         },
         {
-          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
-          "url": "https://www.cls.cn/detail/2293072",
+          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
+          "url": "https://www.cls.cn/detail/2293044",
           "source": "财联社热门",
           "ranks": [
-            1
+            7,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时13分]"
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 14时09分]"
         },
         {
           "title": "市场消息：美国总统特使威特科夫、特朗普女婿库什纳计划于周四在日内瓦举行美伊会谈。",
@@ -93,16 +106,15 @@
           "time_info": "00时50分"
         },
         {
-          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
-          "url": "https://www.cls.cn/detail/2293044",
-          "source": "财联社热门",
+          "title": "美国国防部长赫格塞思：伊朗应该达成协议。伊朗有机会达成协议。这是特朗普所希望的结果。如果伊朗决定不达成协议，我们将为特朗普准备选项。",
+          "url": "https://flash.jin10.com/detail/20260224134038685800",
+          "source": "金十数据",
           "ranks": [
-            7,
             5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "美国众议院议长约翰逊称：不认为特朗普政府应该退还关税款项。（CNN）",
@@ -166,6 +178,19 @@
           "time_info": "[04时50分 ~ 05时39分]"
         },
         {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 14时09分]"
+        },
+        {
           "title": "据英国《金融时报》：特朗普的“和平委员会”为加沙探索推出稳定币。",
           "url": "https://flash.jin10.com/detail/20260224002207019800",
           "source": "金十数据",
@@ -189,6 +214,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 04时50分]"
+        },
+        {
+          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
+          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 14时09分]"
         },
         {
           "title": "摩根士丹利：美国最高法院对特朗普关税政策的判决结果不至于在短期内改变赤字路径。 特朗普政府可能会挖空心思，从其他方面重新实施关税。 这将让投资者预计短期赤字路径“不至于发生实质性变化”。",
@@ -225,30 +262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时13分]"
-        },
-        {
-          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
-          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时13分]"
         },
         {
           "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
@@ -358,6 +371,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
+          "url": "https://news.ifeng.com/c/8r0DvNIO9e9",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "美国总统特朗普将于周五访问德克萨斯州Corpus Christi，发表“以能源和经济为主题”的演讲。（MS Now）",
           "url": "https://wallstreetcn.com/livenews/3057693",
           "source": "华尔街见闻-快讯",
@@ -413,6 +437,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "特朗普10%全球关税生效",
+          "url": "https://flash.jin10.com/detail/20260224130914633800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "报道：特朗普考虑对大约六个行业加征关税",
           "url": "https://wallstreetcn.com/livenews/3057690",
           "source": "华尔街见闻-快讯",
@@ -424,6 +459,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "特朗普对垒最高法院上演“关税迷云”，对全球贸易和美国经济意味着什么？",
+          "url": "https://www.cls.cn/detail/2293113",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "道指暴跌超600点，特朗普在周末上调全球关税——恐将让全球贸易重新陷入混乱",
           "url": "https://wallstreetcn.com/livenews/3057558",
           "source": "华尔街见闻-快讯",
@@ -433,6 +479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "市场消息：特朗普10%的全球关税生效。",
+          "url": "https://flash.jin10.com/detail/20260224130528485800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "特朗普释放美伊局势缓和信号：更倾向协议而非战争",
@@ -455,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普10%全球关税正式生效，实施15%关税的时间表尚未确定。",
+          "url": "https://wallstreetcn.com/livenews/3057877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "美最高法院裁定美政府大规模关税违法，特朗普发出最新威胁",
@@ -488,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "据悉特朗普要求科技企业高管承诺承担数据中心相关费用",
+          "url": "https://flash.jin10.com/detail/20260224123615325800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "美国参议院少数党领袖：参议院民主党人将阻止特朗普延长关税",
@@ -571,8 +650,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时49分 ~ 12时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时49分 ~ 14时09分]"
         },
         {
           "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
@@ -658,8 +737,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时36分 ~ 12时13分]"
+          "appearance_count": 7,
+          "time_info": "[06时36分 ~ 14时09分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -687,6 +766,19 @@
           "time_info": "[00时50分 ~ 01时58分]"
         },
         {
+          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 14时09分]"
+        },
+        {
           "title": "伊朗",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -698,16 +790,16 @@
           "time_info": "[07时30分 ~ 09时29分]"
         },
         {
-          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
-          "source": "澎湃新闻",
+          "title": "内塔尼亚胡警告伊朗",
+          "url": "https://www.douyin.com/hot/2409895",
+          "source": "抖音",
           "ranks": [
-            11,
-            9
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时13分]"
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 14时09分]"
         },
         {
           "title": "据阿联酋通讯社：阿联酋和伊朗外长讨论了地区发展和双边关系，并审查了影响和平、安全和共同利益的问题。",
@@ -750,7 +842,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -764,17 +856,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "内塔尼亚胡警告伊朗",
-          "url": "https://www.douyin.com/hot/2409895",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
         },
         {
           "title": "美媒：美军将领警告对伊朗动武风险极高，易陷长期冲突",
@@ -794,7 +875,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -861,8 +942,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时30分 ~ 12时13分]"
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 14时09分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 14时09分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -876,17 +968,6 @@
           "time_info": "[06时36分 ~ 07时31分]"
         },
         {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时13分]"
-        },
-        {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
           "url": "https://wallstreetcn.com/articles/3766006",
           "source": "华尔街见闻",
@@ -895,8 +976,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时13分]"
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 14时09分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
@@ -989,9 +1070,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 14时09分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
