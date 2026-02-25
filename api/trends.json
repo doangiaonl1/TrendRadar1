@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T15:59:45.223911+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2026-02-25T16:44:53.375979+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 15时59分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 16时44分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -78,8 +78,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时43分 ~ 15时59分]"
+          "appearance_count": 6,
+          "time_info": "[09时43分 ~ 16时44分]"
+        },
+        {
+          "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
+          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时44分]"
+        },
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时44分]"
         },
         {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
@@ -91,28 +113,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时15分 ~ 13时58分]"
-        },
-        {
-          "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
-          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时59分]"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时59分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -227,6 +227,17 @@
           "time_info": "12时15分"
         },
         {
+          "title": "金十整理：什么是真的？CNN打假特朗普国情咨文",
+          "url": "https://flash.jin10.com/detail/20260225160730290800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "美国总统特朗普将要求国会禁止投资公司购买房屋。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3058444",
           "source": "华尔街见闻-快讯",
@@ -285,6 +296,19 @@
           "time_info": "[04时29分 ~ 05时37分]"
         },
         {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 16时44分]"
+        },
+        {
           "title": "白宫：特朗普对伊朗首选方案是外交",
           "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%A6%96%E9%80%89%E6%96%B9%E6%A1%88%E6%98%AF%E5%A4%96%E4%BA%A4",
           "source": "百度热搜",
@@ -305,18 +329,6 @@
             7,
             25,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 15时59分]"
-        },
-        {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            20
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -527,6 +539,17 @@
           "time_info": "12时15分"
         },
         {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，美国总统特朗普政府考虑采取行动，要求银行收集客户国籍信息。关于潜在的新行政命令尚未作出最终决定。",
           "url": "https://flash.jin10.com/detail/20260225022141993800",
           "source": "金十数据",
@@ -654,7 +677,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -816,7 +839,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -868,11 +891,12 @@
             16,
             17,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 15时59分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 16时44分]"
         },
         {
           "title": "媒体：伊朗即将购入中国超音速反舰导弹",
@@ -883,8 +907,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时15分 ~ 15时59分]"
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 16时44分]"
         },
         {
           "title": "美大军压境伊朗为何不屈服",
@@ -895,8 +919,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 16时44分]"
+        },
+        {
+          "title": "伊朗大规模军演 试射多种导弹",
+          "url": "https://www.douyin.com/hot/2410859",
+          "source": "抖音",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 16时44分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -910,17 +946,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 05时37分]"
-        },
-        {
-          "title": "伊朗大规模军演 试射多种导弹",
-          "url": "https://www.douyin.com/hot/2410859",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 15时59分]"
         },
         {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
@@ -1013,7 +1038,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1024,7 +1049,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1104,6 +1129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美中情局公开教伊朗人“怎么找它”",
+          "url": "https://www.toutiao.com/trending/7610697188645158955/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
@@ -1255,6 +1291,17 @@
           "time_info": "[05时37分 ~ 06时28分]"
         },
         {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时44分]"
+        },
+        {
           "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260225013325111800",
           "source": "金十数据",
@@ -1275,17 +1322,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（2月24日），美国科技股七巨头（Magnificent 7）指数涨1.10%，报197.92点，美股盘初V形反转，北京时间23:30以来高位持稳。 “超大”市值科技股指数涨1.81%，报368.94点。",
@@ -1397,7 +1433,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1408,7 +1444,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1419,7 +1455,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         }
