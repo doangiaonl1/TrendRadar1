@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T17:22:06.475734+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-04-23T19:03:23.243624+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 58,
+      "match_count": 62,
       "titles": [
         {
           "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
@@ -30,11 +30,12 @@
             16,
             19,
             24,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 17时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 19时03分]"
         },
         {
           "title": "伊朗将恢复国内航班运营",
@@ -45,11 +46,12 @@
             21,
             24,
             29,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 17时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 19时03分]"
         },
         {
           "title": "伊朗议长：取消海上封锁，全面停火才有意义",
@@ -114,6 +116,31 @@
           "time_info": "[13时25分 ~ 15时28分]"
         },
         {
+          "title": "伊朗反击，传递了一个信号",
+          "url": "https://news.ifeng.com/c/8sYAlI8ABl1",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 19时03分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 55 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2030418339395106223",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时04分 ~ 19时03分]"
+        },
+        {
           "title": "伊朗基本物资供应为何不受封锁影响",
           "url": "https://www.toutiao.com/trending/7631057559575871515/",
           "source": "今日头条",
@@ -129,28 +156,16 @@
           "time_info": "[00时53分 ~ 05时45分]"
         },
         {
-          "title": "伊朗反击，传递了一个信号",
-          "url": "https://news.ifeng.com/c/8sYAlI8ABl1",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时27分 ~ 17时22分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 55 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2030418339395106223",
+          "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
+          "url": "https://www.zhihu.com/question/2030255513384870069",
           "source": "知乎",
           "ranks": [
-            6,
-            11
+            14,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时04分 ~ 17时22分]"
+          "time_info": "[13时25分 ~ 19时03分]"
         },
         {
           "title": "伊朗战争丨伊朗反击了，美却认为“不违反停火协议”",
@@ -230,16 +245,15 @@
           "time_info": "10时04分"
         },
         {
-          "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
-          "url": "https://www.zhihu.com/question/2030255513384870069",
-          "source": "知乎",
+          "title": "印度表示在与伊朗的会谈中旨在确保船只通行安全。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093264",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 17时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "伊朗议长称美公然违反停火协议 不可能重新开放霍尔木兹海峡",
@@ -337,6 +351,17 @@
           "time_info": "[01时56分 ~ 04时47分]"
         },
         {
+          "title": "伊朗称已收到首笔霍尔木兹通行费",
+          "url": "https://www.toutiao.com/trending/7631866696617168422/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时03分]"
+        },
+        {
           "title": "美国务院要求美在伊朗公民立即离境",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%85%AC%E6%B0%91%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%A2%83",
           "source": "百度热搜",
@@ -349,15 +374,15 @@
           "time_info": "[13时25分 ~ 15时28分]"
         },
         {
-          "title": "伊朗称已收到首笔霍尔木兹通行费",
-          "url": "https://www.toutiao.com/trending/7631866696617168422/",
-          "source": "今日头条",
+          "title": "伊朗马汉航空：将恢复往返中国航线",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A9%AC%E6%B1%89%E8%88%AA%E7%A9%BA%EF%BC%9A%E5%B0%86%E6%81%A2%E5%A4%8D%E5%BE%80%E8%BF%94%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%BA%BF",
+          "source": "百度热搜",
           "ranks": [
-            6
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时03分]"
         },
         {
           "title": "伊朗：美袭击“德纳”号护卫舰为“史无前例的战争罪行”并誓言追责",
@@ -408,17 +433,6 @@
           "time_info": "[01时57分 ~ 03时10分]"
         },
         {
-          "title": "伊朗马汉航空：将恢复往返中国航线",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A9%AC%E6%B1%89%E8%88%AA%E7%A9%BA%EF%BC%9A%E5%B0%86%E6%81%A2%E5%A4%8D%E5%BE%80%E8%BF%94%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
-        },
-        {
           "title": "伊朗安全部队在边境开火",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%89%E5%85%A8%E9%83%A8%E9%98%9F%E5%9C%A8%E8%BE%B9%E5%A2%83%E5%BC%80%E7%81%AB",
           "source": "百度热搜",
@@ -458,9 +472,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "印度外交部发言人：印度正与伊朗进行谈判，以确保（印度）船只安全通行。",
+          "url": "https://flash.jin10.com/detail/20260423185556784800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗谈判团队未曾在伊斯兰堡就核问题进行会谈。（此处指第一轮谈判）",
@@ -483,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "伊朗副议长：收到首笔霍尔木兹海峡通行费",
+          "url": "https://news.ifeng.com/c/8sYp0IzffDB",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "还有15天！伊朗石油业将被迫减产，随后全面停产",
@@ -538,6 +574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "伊朗革命卫队扣押集装箱船画面曝光",
+          "url": "https://www.toutiao.com/trending/7631880274972003878/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "白宫：伊朗空军在实战与作战层面已基本丧失作用",
@@ -722,8 +769,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时10分 ~ 17时22分]"
+          "appearance_count": 12,
+          "time_info": "[03时10分 ~ 19时03分]"
         },
         {
           "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
@@ -750,6 +797,42 @@
           "time_info": "[00时53分 ~ 04时47分]"
         },
         {
+          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
+          "url": "https://wallstreetcn.com/articles/3770662",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 19时03分]"
+        },
+        {
+          "title": "伊朗：特朗普又说谎了",
+          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时04分 ~ 19时03分]"
+        },
+        {
+          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 19时03分]"
+        },
+        {
           "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
           "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
           "source": "澎湃新闻",
@@ -765,31 +848,6 @@
           "time_info": "[00时53分 ~ 15时28分]"
         },
         {
-          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
-          "url": "https://wallstreetcn.com/articles/3770662",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 17时22分]"
-        },
-        {
-          "title": "伊朗：特朗普又说谎了",
-          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 17时22分]"
-        },
-        {
           "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -799,17 +857,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时53分 ~ 01时57分]"
-        },
-        {
-          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时27分 ~ 17时22分]"
         },
         {
           "title": "美媒：特朗普再给伊朗3至5天停火时间",
@@ -881,6 +928,17 @@
           "time_info": "[00时53分 ~ 00时54分]"
         },
         {
+          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
+          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 19时03分]"
+        },
+        {
           "title": "伊朗战争丨以媒：特朗普设定对伊停火期限26日结束",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -948,17 +1006,6 @@
           "time_info": "[00时53分 ~ 03时10分]"
         },
         {
-          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
-          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 17时22分]"
-        },
-        {
           "title": "SpaceX参与开发美国总统特朗普所谓“金穹”反导系统的操作系统。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3092793",
           "source": "华尔街见闻-快讯",
@@ -968,6 +1015,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 19时03分]"
         },
         {
           "title": "美国总统特朗普：参议院共和党领袖图恩和参议员格雷厄姆已迈出关键第一步，推动通过另一项“和解法案”，该法案旨在为我们的伟大边境巡逻队和移民及海关执法局人员提供资金。",
@@ -1019,16 +1079,16 @@
           "time_info": "[10时04分 ~ 15时28分]"
         },
         {
-          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
           "source": "澎湃新闻",
           "ranks": [
-            19,
+            20,
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时27分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时03分]"
         },
         {
           "title": "特朗普政府股权收购热潮总额逼近210亿美元",
@@ -1053,17 +1113,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时41分]"
-        },
-        {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
         },
         {
           "title": "伊朗否认举行美伊新谈判：特朗普又说谎了",
@@ -1256,7 +1305,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -1439,6 +1488,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "超微电脑美股盘前跌超12%。",
+          "url": "https://wallstreetcn.com/livenews/3093257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "特斯拉(TSLA.O)美股盘后涨幅被抹平，此前一度涨超4.5%。",
           "url": "https://flash.jin10.com/detail/20260423060230487800",
           "source": "金十数据",
@@ -1456,9 +1516,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "洛克希德马丁一季度净销售额180.2亿美元，预估182.4亿美元。 第一季度每股收益为6.44 美元，而去年同期为7.28 美元。 第一季度运营利润20.6亿美元，预估22.6亿美元。 洛克希德马丁仍预计全年每股收益29.35至30.25美元，市场预估29.82美元。 洛克希德马丁仍预计全年净销售额775亿至800亿美元，市场预估790.9亿美元。 洛克希德马丁仍预计全年自由现金流为65亿至68亿美元，市场预估66.7亿美元。 洛克希德马丁仍预计全年业务运营利润为84.3亿至86.8亿美元。 洛克希德马丁美股盘前跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3093251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。 信息科技指数涨2.79%，报333.55点，创收盘历史新高。 人工智能（AI）赢家指数涨3.38%，报351.50点。 AI软件先驱指数涨2.64%，报102.66点。",
@@ -1550,7 +1621,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
