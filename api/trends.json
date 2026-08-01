@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T22:55:38.335992+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-08-01T23:56:53.600721+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
@@ -101,6 +101,18 @@
           "time_info": "13时50分"
         },
         {
+          "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
+          "url": "https://wallstreetcn.com/livenews/3143616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 23时56分]"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：伊朗军方发言人称，我们近期已投入使用新型无人机，相关细节将在未来几天内公布。我们的无人机航程足以覆盖以色列领土。",
           "url": "https://flash.jin10.com/detail/20260801153027574800",
           "source": "金十数据",
@@ -110,17 +122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
-        },
-        {
-          "title": "美财长称正在全球范围内追查伊朗资产",
-          "url": "https://flash.jin10.com/detail/20260801222142745800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
         },
         {
           "title": "伊朗警告称美国海军封锁可能导致更多海峡关闭",
@@ -148,6 +149,19 @@
           "time_info": "[07时56分 ~ 10时13分]"
         },
         {
+          "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
+          "url": "https://flash.jin10.com/detail/20260801202347340800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 23时56分]"
+        },
+        {
           "title": "伊朗最高国家安全委员会秘书：全球经济、能源市场和美国选民将为持续的海上封锁和美国的局势升级付出代价。",
           "url": "https://wallstreetcn.com/livenews/3143491",
           "source": "华尔街见闻-快讯",
@@ -158,18 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时56分]"
-        },
-        {
-          "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
-          "url": "https://wallstreetcn.com/livenews/3143616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 22时55分]"
         },
         {
           "title": "美国无力消除霍尔木兹海峡的伊朗威胁",
@@ -196,16 +198,29 @@
           "time_info": "[07时56分 ~ 10时13分]"
         },
         {
-          "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
-          "url": "https://flash.jin10.com/detail/20260801202347340800",
+          "title": "美财长称正在全球范围内追查伊朗资产",
+          "url": "https://flash.jin10.com/detail/20260801222142745800",
           "source": "金十数据",
           "ranks": [
-            4,
-            15
+            5,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时21分 ~ 22时55分]"
+          "time_info": "[22时55分 ~ 23时56分]"
+        },
+        {
+          "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
+          "url": "https://wallstreetcn.com/livenews/3143596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时59分 ~ 23时56分]"
         },
         {
           "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
@@ -258,19 +273,6 @@
           "time_info": "[18时30分 ~ 21时21分]"
         },
         {
-          "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
-          "url": "https://wallstreetcn.com/livenews/3143596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 22时55分]"
-        },
-        {
           "title": "伊朗军方称近期使用新型无人机",
           "url": "https://wallstreetcn.com/livenews/3143579",
           "source": "华尔街见闻-快讯",
@@ -305,6 +307,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时59分 ~ 21时21分]"
+        },
+        {
+          "title": "美财长称正在全球范围内追查伊朗资产",
+          "url": "https://wallstreetcn.com/livenews/3143618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时56分]"
         },
         {
           "title": "据CBS：美国和以色列正准备最早于本周末轰炸伊朗的能源相关目标。",
@@ -387,17 +400,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
-        },
-        {
-          "title": "美财长称正在全球范围内追查伊朗资产",
-          "url": "https://wallstreetcn.com/livenews/3143618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
         },
         {
           "title": "伊朗政府：伊朗外长阿拉格奇与印度外长苏杰生通电话，讨论了双边关系及地区最新局势。",
@@ -491,19 +493,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
-        {
-          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
-          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时12分 ~ 18时30分]"
-        },
         {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
           "url": "https://wallstreetcn.com/articles/3778460",
@@ -514,8 +505,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时49分 ~ 22时55分]"
+          "appearance_count": 10,
+          "time_info": "[13时49分 ~ 23时56分]"
+        },
+        {
+          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
+          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 18时30分]"
         },
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -530,6 +532,18 @@
           "time_info": "[01时38分 ~ 07时56分]"
         },
         {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时49分 ~ 23时56分]"
+        },
+        {
           "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
           "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
           "source": "澎湃新闻",
@@ -541,16 +555,20 @@
           "time_info": "[01时38分 ~ 06时03分]"
         },
         {
-          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
-          "url": "https://www.cls.cn/detail/2443172",
-          "source": "财联社热门",
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            16,
+            14,
+            12,
+            10,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时49分 ~ 22时55分]"
+          "appearance_count": 8,
+          "time_info": "[16时10分 ~ 23时56分]"
         },
         {
           "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
@@ -574,21 +592,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时56分]"
-        },
-        {
-          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时10分 ~ 22时55分]"
         },
         {
           "title": "五角大楼发言人：美国国防部随时准备执行特朗普总统的指示。",
@@ -615,6 +618,17 @@
           "time_info": "[06时03分 ~ 07时56分]"
         },
         {
+          "title": "特朗普：伊朗确实挺硬气",
+          "url": "https://news.ifeng.com/c/8vErXsygJc0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时58分 ~ 23时56分]"
+        },
+        {
           "title": "白宫：特朗普认定未来4年对进口石英表面产品实施关税配额是适当的。",
           "url": "https://flash.jin10.com/detail/20260801050537920800",
           "source": "金十数据",
@@ -639,15 +653,29 @@
           "time_info": "[16时10分 ~ 18时30分]"
         },
         {
-          "title": "特朗普：伊朗确实挺硬气",
-          "url": "https://news.ifeng.com/c/8vErXsygJc0",
-          "source": "凤凰网",
+          "title": "特朗普威胁参议员通过其司法部长人选",
+          "url": "https://flash.jin10.com/detail/20260801195052778800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9,
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时58分 ~ 22时55分]"
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 23时56分]"
+        },
+        {
+          "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3143604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 23时56分]"
         },
         {
           "title": "你和特朗普谁是老大？内塔尼亚胡：他是大股东，但我也有底线",
@@ -696,30 +724,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时59分 ~ 21时21分]"
-        },
-        {
-          "title": "特朗普威胁参议员通过其司法部长人选",
-          "url": "https://flash.jin10.com/detail/20260801195052778800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 22时55分]"
-        },
-        {
-          "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3143604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 22时55分]"
         },
         {
           "title": "特朗普否认允许乌生产爱国者拦截弹",
@@ -831,6 +835,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "特朗普说伊朗确实挺硬气",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9E%E6%8C%BA%E7%A1%AC%E6%B0%94%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         }
       ]
     },
@@ -932,6 +947,18 @@
           "time_info": "[01时38分 ~ 07时56分]"
         },
         {
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时58分 ~ 23时56分]"
+        },
+        {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
           "url": "https://www.zhihu.com/question/2066526486505461299",
           "source": "知乎",
@@ -942,18 +969,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 03时15分]"
-        },
-        {
-          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
-          "url": "https://www.zhihu.com/question/2066595452238160814",
-          "source": "知乎",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时58分 ~ 22时55分]"
         },
         {
           "title": "DeepSeekV4Flash 便宜",
@@ -1027,8 +1042,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时56分 ~ 22时55分]"
+          "appearance_count": 13,
+          "time_info": "[07时56分 ~ 23时56分]"
         },
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -1081,8 +1096,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 22时55分]"
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 23时56分]"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
@@ -1191,7 +1206,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
@@ -1324,6 +1339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "OpenAI 价格战",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%20%E4%BB%B7%E6%A0%BC%E6%88%98&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
@@ -1461,8 +1487,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时56分 ~ 22时55分]"
+          "appearance_count": 13,
+          "time_info": "[07时56分 ~ 23时56分]"
         },
         {
           "title": "美国圣路易斯联储主席穆萨勒姆（Musalem）针对美债抛售事件表示：美债抛售对美联储的信誉发出了警告。 我本人倾向于（支持）加息。（英国金融时报）",
