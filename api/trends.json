@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T20:51:10.452296+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-08-14T22:12:56.874848+08:00",
+  "total_titles_processed": 1625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -33,18 +33,6 @@
           "time_info": "[13时42分 ~ 17时03分]"
         },
         {
-          "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
-          "url": "https://news.ifeng.com/c/8vYQf5wseR7",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时53分 ~ 07时35分]"
-        },
-        {
           "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
           "url": "https://www.zhihu.com/question/2070813507499643585",
           "source": "知乎",
@@ -52,15 +40,16 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时42分 ~ 20时51分]"
+          "appearance_count": 9,
+          "time_info": "[13时42分 ~ 22时12分]"
         },
         {
-          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
-          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
+          "url": "https://news.ifeng.com/c/8vYQf5wseR7",
           "source": "凤凰网",
           "ranks": [
-            6
+            2,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -75,8 +64,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时53分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[18时53分 ~ 22时12分]"
+        },
+        {
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时53分 ~ 07时35分]"
         },
         {
           "title": "特朗普专机上全是一箱又一箱麦当劳",
@@ -271,6 +271,17 @@
           "time_info": "06时35分"
         },
         {
+          "title": "纽约时报：特朗普女婿库什纳将在以色列访问期间会见以色列总理内塔尼亚胡。",
+          "url": "https://flash.jin10.com/detail/20260814212323053800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "据华尔街日报：美国总统特朗普下令海军移除航母电磁弹射系统，恢复蒸汽弹射方案，预计相关改装将推高成本数十亿美元。",
           "url": "https://flash.jin10.com/detail/20260814043950826800",
           "source": "金十数据",
@@ -313,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "美国总统特朗普请求最高法院允许白宫宴会厅继续建设。",
+          "url": "https://flash.jin10.com/detail/20260814211049947800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
@@ -406,7 +428,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -419,8 +441,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时53分 ~ 20时51分]"
+          "appearance_count": 16,
+          "time_info": "[01时53分 ~ 22时12分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -461,6 +483,20 @@
           "time_info": "[01时53分 ~ 09时20分]"
         },
         {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时42分 ~ 22时12分]"
+        },
+        {
           "title": "DeepSeek Harness 开发者预览版：一切皆插件",
           "url": "https://wallstreetcn.com/articles/3779385",
           "source": "华尔街见闻",
@@ -473,19 +509,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时20分 ~ 20时51分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时42分 ~ 20时51分]"
         },
         {
           "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
@@ -517,6 +540,20 @@
           "time_info": "[01时53分 ~ 06时35分]"
         },
         {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
+          "ranks": [
+            11,
+            3,
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时42分 ~ 22时12分]"
+        },
+        {
           "title": "DeepSeek Harness发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -543,19 +580,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时53分 ~ 09时20分]"
-        },
-        {
-          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
-          "url": "https://www.zhihu.com/question/2071361705183899939",
-          "source": "知乎",
-          "ranks": [
-            11,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 17时03分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -666,6 +690,17 @@
           "time_info": "09时20分"
         },
         {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "金山办公“灵犀”接入DeepSeek-V4-Pro正式版，已向用户开放",
           "url": "https://wallstreetcn.com/livenews/3149467",
           "source": "华尔街见闻-快讯",
@@ -675,6 +710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "深度体验DeepSeek Harness 原谅涨价",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8CDeepSeek+Harness+%E5%8E%9F%E8%B0%85%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "DeepSeek官网撤公告疑似回滚",
@@ -713,7 +759,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
@@ -933,6 +979,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "伊朗外交部副部长加里巴巴迪：今天是伊斯兰抵抗日，它提醒人们要抵御侵略，并粉碎基于武力的算计。地区局势再次表明，各国人民抵抗侵略的坚定立场，依然在地区格局中发挥着决定性作用。",
+          "url": "https://flash.jin10.com/detail/20260814211912567800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "美国在伊朗冲突中损失约25%的“死神”无人机。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3149244",
           "source": "华尔街见闻-快讯",
@@ -961,7 +1018,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -980,7 +1037,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -1028,6 +1085,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "金十图示：2026年08月14日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260814214258805800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "金十图示：2026年08月13日（周四）热门中概股行情一览（美股收盘）",
@@ -1089,6 +1157,17 @@
           "time_info": "[17时02分 ~ 17时03分]"
         },
         {
+          "title": "美股开盘，道指跌0.1%、标普500指数涨0.1%、纳指涨0.16%。闪迪(SNDK.O)涨7%，公司预计2028至2030财年营收将保持中高双位数增长。西部数据(WDC.O)和美光科技(MU.O)涨约4%。应用材料(AMAT.O)跌5%，公司此前公布业绩。",
+          "url": "https://flash.jin10.com/detail/20260814213040976800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 存储概念走强",
           "url": "https://flash.jin10.com/detail/20260814040105197800",
           "source": "金十数据",
@@ -1100,6 +1179,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，生物科技指数ETF跌超1%，医疗业ETF跌近1%，公用事业ETF、能源业ETF微涨。",
+          "url": "https://wallstreetcn.com/livenews/3149790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3149692",
           "source": "华尔街见闻-快讯",
@@ -1109,6 +1199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3149787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "美股存储股大涨 闪迪飙升近14%",
@@ -1142,6 +1243,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3149772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-14）",
+          "url": "https://flash.jin10.com/detail/20260814210622788800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
@@ -1168,8 +1291,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时53分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[18时53分 ~ 22时12分]"
         },
         {
           "title": "OpenAI 上市前年化营收突破 400 亿美元",
@@ -1379,11 +1502,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时42分 ~ 20时51分]"
+          "appearance_count": 9,
+          "time_info": "[13时42分 ~ 22时12分]"
         },
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
@@ -1432,11 +1556,12 @@
           "url": "https://wallstreetcn.com/livenews/3149766",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 22时12分]"
         },
         {
           "title": "美元指数13日下跌",
