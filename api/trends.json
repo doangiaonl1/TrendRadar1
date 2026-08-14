@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T13:43:08.619090+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-08-14T15:16:25.364327+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -33,6 +33,18 @@
           "time_info": "[01时53分 ~ 07时35分]"
         },
         {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 15时16分]"
+        },
+        {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
           "url": "https://news.ifeng.com/c/8vYj1925EKl",
           "source": "凤凰网",
@@ -44,15 +56,15 @@
           "time_info": "[01时53分 ~ 07时35分]"
         },
         {
-          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
-          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
-          "source": "凤凰网",
+          "title": "特朗普专机上全是一箱又一箱麦当劳",
+          "url": "https://www.toutiao.com/trending/7673136089955352622/",
+          "source": "今日头条",
           "ranks": [
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "据Axios：特朗普女婿库什纳计划下周访问以色列，进行关于加沙的会谈。",
@@ -71,11 +83,12 @@
           "source": "凤凰网",
           "ranks": [
             12,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 15时16分]"
         },
         {
           "title": "美新闻机构起诉特朗普",
@@ -98,8 +111,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 15时16分]"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 15时16分]"
         },
         {
           "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
@@ -112,17 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时35分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "美媒：肯尼迪中心决定将特朗普名字印在大楼外墙上",
@@ -145,6 +158,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8vZxGezuWmE",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "美国卫生部长：特朗普专机上有多箱麦当劳，他出门怕食物中毒",
+          "url": "https://news.ifeng.com/c/8va6d6Ijs5m",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
@@ -326,7 +361,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -337,8 +372,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时53分 ~ 13时43分]"
+          "appearance_count": 10,
+          "time_info": "[01时53分 ~ 15时16分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -350,8 +385,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时53分 ~ 13时43分]"
+          "appearance_count": 10,
+          "time_info": "[01时53分 ~ 15时16分]"
         },
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -470,6 +505,31 @@
           "time_info": "09时20分"
         },
         {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 15时16分]"
+        },
+        {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 15时16分]"
+        },
+        {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
           "url": "https://www.zhihu.com/question/2071348486667237276",
           "source": "知乎",
@@ -484,16 +544,16 @@
           "time_info": "[01时53分 ~ 06时35分]"
         },
         {
-          "title": "DeepSeek发布调价公告",
-          "url": "https://www.douyin.com/hot/2608709",
-          "source": "抖音",
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时53分 ~ 13时43分]"
+          "time_info": "[09时20分 ~ 15时16分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -509,18 +569,6 @@
           "time_info": "[01时53分 ~ 05时39分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 13时43分]"
-        },
-        {
           "title": "DeepSeek Harness 来了，它不想做下一个Codex",
           "url": "https://wallstreetcn.com/articles/3779390",
           "source": "华尔街见闻",
@@ -528,19 +576,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
-          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
-          "url": "https://www.zhihu.com/question/2071361705183899939",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 15时16分]"
         },
         {
           "title": "梁文锋打新宇树科技",
@@ -571,7 +608,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -585,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "深度解读DeepSeek Harness",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek%20Harness",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "DeepSeek Harness公测",
@@ -677,11 +725,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 15时16分]"
         },
         {
           "title": "美防长称可“无限期”对伊朗进行海上封锁",
@@ -691,8 +740,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 15时16分]"
         },
         {
           "title": "伊朗官员重申霍尔木兹海峡处于关闭状态",
@@ -890,8 +939,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 15时16分]"
         },
         {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股收盘）",
@@ -1000,7 +1049,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌发布Gemini 3.7 Flash 但旗舰模型仍遥遥无期",
@@ -1046,6 +1095,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "谷歌推出 Gemini 3.7 Flash，有哪些亮点和创新？",
+          "url": "https://www.zhihu.com/question/2071408739723302257",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "谷歌(GOOG.O)：Gemini 3.7 Flash在复杂文档处理方面性能超过Gemini 3.6 Flash。",
@@ -1222,11 +1282,12 @@
           "url": "https://wallstreetcn.com/articles/3779403",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 15时16分]"
         },
         {
           "title": "美国PPI数据公布日，美债收益率普遍下挫",
